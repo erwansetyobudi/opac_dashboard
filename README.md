@@ -58,7 +58,7 @@ Plugin **OPAC Dashboard** untuk **SLiMS Bulian (≥ 9.3.0)** yang menyediakan an
    ```bash
    plugins/opac_dashboard/
 2. Aktifkan Plugin dengan cara login sebgai super admin, klik Menu Sistem --> Plugins
-3. Akses dasboard melalui url index.php?p=dashboard
+3. Akses dasboard melalui url index.php?p=opac_dashboard
 
 ## Screen Shoot
 <img width="1365" height="646" alt="preview" src="https://github.com/user-attachments/assets/20ed4e58-d691-4cda-b5f4-a1c67a0223ff" />
